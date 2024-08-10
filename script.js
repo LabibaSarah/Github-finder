@@ -20,4 +20,4 @@ searchBtn.addEventListener("click",(e)=>{
         //clear profile
         ui.clearProfile()
     }
-})
+})    
